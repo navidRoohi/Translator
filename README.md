@@ -3,7 +3,7 @@ Translator App
 
 
 This project has written and modified based on Derek Banas page, for more information please have a look at : 
-https://www.youtube.com/watch?v=Z149x12sXsw
+https://www.youtube.com/watch?v=I58TkCi73ew
 
 If some of you have any trouble with missing libraries (Cannot resolve token) on classes like DefaultHttpConnection, follow this simple steps:<br>
 1. Go to File -> Project Structure.<br>
